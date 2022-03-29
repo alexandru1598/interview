@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    background-color: beige;
+}
+
+.navbar-container {
+    display: flex;
+    margin-left: auto;
+    margin-right: 2rem;
+}
+
+.links {
+    margin: 1rem;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+.navbar-title {
+    margin: 1rem 2rem;
+    font-weight: 700;
+}

@@ -1,0 +1,25 @@
+.article-page-item {
+    margin: 2rem;
+}
+
+.article-page-title {
+    max-width: fit-content;
+    color: black;
+    text-align: start;
+    font-weight: 700;
+}
+
+.article-page-content {
+    padding-top: 1rem;
+    text-align: start;
+    margin-bottom: 5rem;
+}
+
+.comment-item {
+    text-align: start;
+    margin: 2rem;
+}
+
+.comment-item > span {
+    font-weight: 700;
+}
